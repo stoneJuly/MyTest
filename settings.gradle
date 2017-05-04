@@ -1,1 +1,1 @@
-include ':leakcanary', ':myrxjavademo', ':cameratest', ':androidstudiotest'
+include ':leakcanary', ':myrxjavademo', ':cameratest', ':androidstudiotest', ':picturecachetest'

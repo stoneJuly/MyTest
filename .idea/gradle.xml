@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/cameratest" />
             <option value="$PROJECT_DIR$/leakcanary" />
             <option value="$PROJECT_DIR$/myrxjavademo" />
+            <option value="$PROJECT_DIR$/picturecachetest" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
