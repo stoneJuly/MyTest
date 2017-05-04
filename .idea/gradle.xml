@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/androidstudiotest" />
             <option value="$PROJECT_DIR$/cameratest" />
             <option value="$PROJECT_DIR$/leakcanary" />
             <option value="$PROJECT_DIR$/myrxjavademo" />

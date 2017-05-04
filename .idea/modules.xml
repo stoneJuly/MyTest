@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyTest.iml" filepath="$PROJECT_DIR$/MyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidstudiotest/androidstudiotest.iml" filepath="$PROJECT_DIR$/androidstudiotest/androidstudiotest.iml" />
       <module fileurl="file://$PROJECT_DIR$/cameratest/cameratest.iml" filepath="$PROJECT_DIR$/cameratest/cameratest.iml" />
       <module fileurl="file://$PROJECT_DIR$/leakcanary/leakcanary.iml" filepath="$PROJECT_DIR$/leakcanary/leakcanary.iml" />
       <module fileurl="file://$PROJECT_DIR$/myrxjavademo/myrxjavademo.iml" filepath="$PROJECT_DIR$/myrxjavademo/myrxjavademo.iml" />
